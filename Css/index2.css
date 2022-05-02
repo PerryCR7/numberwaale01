@@ -502,4 +502,8 @@ border: none;
     color: rgb(255, 84, 47);
   }
   
+  .col4 .detail-card {
+    width: auto;
+  }
+  
 }
